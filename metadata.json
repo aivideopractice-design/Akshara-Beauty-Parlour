@@ -1,0 +1,5 @@
+{
+  "name": "Akshara Beauty Parlour",
+  "description": "Modern beauty and hair services in Dharavi, Mumbai. Specializing in bridal makeup, hairstyling, and premium skin treatments.",
+  "requestFramePermissions": ["geolocation"]
+}
